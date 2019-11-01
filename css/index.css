@@ -172,8 +172,6 @@ header nav a {
     width:20%;
 }
 
-
-
 .links{
     width:60%;
     display:flex;
@@ -181,8 +179,6 @@ header nav a {
     align-items:center;
 
 }
-
-
 
 .boxes{
     background-color:white;
@@ -228,3 +224,29 @@ header nav a {
     background-color:dodgerblue;
 }
 /*CSS About codes start here */
+
+.button{
+	border: 1.5px solid black;
+	border-radius: 8px;
+	width:30%;
+	padding:5px;
+	margin: 10px 0 0px 0;
+}
+
+.Strategy-HowWeWork{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	margin:30px 0 30px 0;
+}
+
+.PlacesWeWork-Collaboration{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	margin:30px 0 30px 0;
+}
+
+.Strategy{
+    font-size: 1px;
+}
