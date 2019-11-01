@@ -144,3 +144,109 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+header{ 
+    width: 100%;
+    background: white;
+
+}
+header nav{
+    width: 60%;
+    display:flex;
+    justify-content:space-between;
+       }
+
+header nav a {
+    color: black;
+    text-decoration: none;
+   
+    }
+
+
+.lambda-black img{
+    max-width:100%;
+}
+
+.lambda-black{
+    width:20%;
+}
+
+.links{
+    width:60%;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+}
+
+.boxes{
+    background-color:white;
+}
+.box1{
+    background-color:teal;
+}
+
+.box2{
+    background-color:gold;
+}
+
+.box3{
+    background-color:cadetblue;
+}
+
+.box4{
+    background-color:coral;
+}
+
+.box5{
+    background-color:crimson;
+}
+
+.box6{
+    background-color:forestgreen;
+    
+}
+
+.box7{
+    background-color:darkorchid;
+}
+
+.box8{
+    background-color:hotpink;
+}
+
+.box9{
+    background-color:indigo;
+}
+
+.box10{
+    background-color:dodgerblue;
+}
+/*CSS About codes start here */
+
+.button{
+	border: 1.5px solid black;
+	border-radius: 8px;
+	width:30%;
+	padding:5px;
+	margin: 10px 0 0px 0;
+}
+
+.Strategy-HowWeWork{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	margin:30px 0 30px 0;
+}
+
+.PlacesWeWork-Collaboration{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	margin:30px 0 30px 0;
+}
+
+.Strategy{
+    font-size: 1px;
+}
